@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\work\source\repos\信息\信息\main.c(89): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  信息.vcxproj -> C:\Users\work\source\repos\信息\Debug\信息.exe
